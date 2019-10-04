@@ -1,0 +1,12 @@
+{
+    "id": "youtube",
+    "name": "YouTube",
+    "version": "1.0.0",
+    "description": "YouTube",
+    "main": "index.js",
+    "author": "Davide Dolce",
+    "license": "MIT",
+    "config": {
+      "serviceURL": "https://www.youtube.com/account"
+    }
+  }
