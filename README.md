@@ -4,7 +4,7 @@ A simple plugin for **Meetfranz** to watch videos on YouTube, edit channels, com
 
 ## How do I install the plugin ?
 
-Git clone [this](https://github.com/Cramenorn/meetfranz-youtube-plugin.git) repo, create a folder named **dev** into one the following paths:
+Git clone [this](https://github.com/Cramenorn/meetfranz-youtube-plugin.git) repo, create a folder named **dev** into one of the following paths:
 
 * Mac: ~/Library/Application Support/Franz/recipes/
 * Windows: %appdata%/Franz/recipes/
